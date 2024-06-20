@@ -4,9 +4,9 @@
 
 O projeto tem como objetivo desenvolver um sistema de reserva de salas de trabalho para uma empresa. Esse sistema permitirá que os colaboradores façam reservas de salas para uso presencial por meio de uma interface gráfica desenvolvida com JFrame Form. A aplicação será implementada em Java e integrará um banco de dados MySQL para armazenar informações sobre as reservas e as salas disponíveis.
 
-
-
-
+<div style="text-align:center">
+  <img src="reserva.png" alt="Sistema de Reserva de Salas">
+</div>
 
 
 ## Funcionalidades do Sistema
@@ -27,5 +27,3 @@ O projeto tem como objetivo desenvolver um sistema de reserva de salas de trabal
 - **Interface Gráfica:** JFrame (Swing)
 - **Banco de Dados:** MySQL
 - **Ferramentas de Desenvolvimento:** NetBeans/Eclipse, MySQL Workbench
-
-
